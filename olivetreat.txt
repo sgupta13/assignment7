@@ -1,0 +1,8 @@
+<p id = "olivetreat">
+<h4>Super Olive Moisturizing Treatment</h4>
+<ul>
+<li>With Olive Oil and Avocado</li>
+<li>Great for dry and dull hair</li>
+<li>Relaxed or Natural Hair</li>
+<li>Frizz-prone hair</li>
+</ul></p>

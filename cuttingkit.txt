@@ -1,0 +1,7 @@
+<p id = "cuttingkit">
+<h4>Super Hair Cutting Kit</h4>
+<ul>
+<li>Color coded guide combs</li>
+<li>Color coded keys</li>
+<li>Self-Sharpening, high-carbon steel blades</li>
+</ul></p>

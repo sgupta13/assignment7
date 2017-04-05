@@ -1,0 +1,7 @@
+<p id = "oliveshampoo">
+<h4>Super Olive Shampoo</h4>
+<ul>
+<li>Great for frizz prone hair</li>
+<li>Gently cleanses</li>
+<li>With avocado and silk</li>
+</ul></p>

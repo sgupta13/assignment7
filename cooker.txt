@@ -1,0 +1,8 @@
+<p id = "cooker"> 
+<h4>Programmable Cook and Carry Oval Slow Cooker</h4>
+<ul>
+<li>6 quart capacity</li>
+<li>Easy-to-use locking lid</li>
+<li>Programmable digital control</li>
+<li>Shifts to Warm Setting Automatically</li>
+</ul></p>

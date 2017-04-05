@@ -1,0 +1,8 @@
+<p id = "floormate"> 
+<h4>FloorMate Floor Cleaner</h4>
+<ul>
+<li>SpinScrub Brushes</li>
+<li>Dual Tank Technology</li>
+<li>Simple Mode Selection</li>
+<li>Clean Boost Control</li>
+</ul></p>
